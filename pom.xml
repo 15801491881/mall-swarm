@@ -13,12 +13,12 @@
         <module>mall-common</module>
         <module>mall-mbg</module>
         <module>mall-demo</module>
-        <module>mall-admin</module>
-        <module>mall-search</module>
-        <module>mall-portal</module>
-        <module>mall-monitor</module>
-        <module>mall-gateway</module>
-        <module>mall-auth</module>
+<!--        <module>mall-admin</module>-->
+<!--        <module>mall-search</module>-->
+<!--        <module>mall-portal</module>-->
+<!--        <module>mall-monitor</module>-->
+<!--        <module>mall-gateway</module>-->
+<!--        <module>mall-auth</module>-->
     </modules>
 
     <parent>
